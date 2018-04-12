@@ -1,0 +1,14 @@
+Delcare two 2-dimensinoal arrays of size 4*3. 
+Ask the user to enter valiue for the first matrix.
+Start the for loop to go from 0-3.
+
+For loop()
+{
+display message regarding which row.
+start another for loop to go from 0-2.
+
+For Loop
+{
+get 4 values and store them in the array.
+}
+}
